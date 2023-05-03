@@ -1,0 +1,35 @@
+Create a user authentication app using
+    > Flask
+    > SQL (with pyodbc)
+    > HTML, CSS, maybe JS
+
+    Note: Go to https://learn.microsoft.com/en-us/sql/connect/python/pyodbc/python-sql-driver-pyodbc?view=sql-server-ver16
+    for help
+
+After completing authentication system, try implementing a messaging system.
+
+Since this is just a simple app, create a page that can show all users username, password, 
+and hashed password to remind user possible logins.
+
+Note: On portfolio, remind the user (if they wish to download the app) that they need to have
+Microsoft SQL Server installed on their system.
+
+
+Creating the app
+- Need 2 database tables, one for user authentication and another one containing all messages
+
+For the login page (in order)
+- Made up banner
+- Email
+- Password
+- Forgot password
+- Need account, register here
+
+For the register page (in order)
+- Made up banner
+- Username
+- Email
+- Password
+- Confirm Password
+- Already have account, login here
+
